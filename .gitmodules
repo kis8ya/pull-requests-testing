@@ -1,0 +1,3 @@
+[submodule "subm-dir"]
+	path = subm-dir
+	url = https://github.com/kis8ya/gsubmodule.git
